@@ -1,0 +1,107 @@
+Called printMessage()
+Message - ----------Welcome to Portfolio Management----------
+
+Called printMessage()
+Message - -> Press q to exit from the program.
+Called printMessage()
+Message - 
+Select one of the options
+Called printMenu()
+Create User
+Existing User
+Called printMessage()
+Message - Enter the username (underscore separated) - 
+Called printMessage()
+Message - 
+Called printMenu()
+Create Portfolio
+Edit Portfolio
+Load Portfolio from file
+Examine Portfolio Composition
+Total Value of Portfolio
+Cost Basis of Portfolio
+Portfolio Performance
+Go back
+Called printMessage()
+Message - 
+Called printMenu()
+Inflexible Portfolio
+Flexible Portfolio
+Go back
+Called printMessage()
+Message - Enter the portfolio name (underscore separated) - 
+Called printMessage()
+Message - 
+Called printMenu()
+Buy Stocks
+Sell Stocks
+Exit Portfolio
+Called printMessage()
+Message - Enter the stock ticker that you want to add - 
+Called printMessage()
+Message - Enter the stock quantity - 
+Called printMessage()
+Message - Enter the date of purchase (yyyy-MM-dd) - 
+Called printMessage()
+Message - Enter the commission for the transaction - 
+Called printMessage()
+Message - 
+Called printMenu()
+Buy Stocks
+Sell Stocks
+Exit Portfolio
+Called printSuccess()
+Message - Portfolio "testportfolio" saved!
+Called printMessage()
+Message - 
+Called printMenu()
+Create Portfolio
+Edit Portfolio
+Load Portfolio from file
+Examine Portfolio Composition
+Total Value of Portfolio
+Cost Basis of Portfolio
+Portfolio Performance
+Go back
+Called printMessage()
+Message - 
+Called printMenu()
+Inflexible Portfolio
+Flexible Portfolio
+Go back
+Called printMessage()
+Message - 
+Choose a Portfolio - 
+Called printMenu()
+testportfolio
+Called printMessage()
+Message - Enter the start date (yyyy-MM-dd) - 
+Called printMessage()
+Message - Enter the end date (yyyy-MM-dd) - 
+Called printPortfolioPerformance()
+scale 169.0
+2022-11-01 7757.78
+2022-11-02 7483.4
+2022-11-03 7284.5
+2022-11-04 7527.26
+2022-11-05 7747.58
+2022-11-06 7747.58
+2022-11-07 7747.58
+2022-11-08 7781.58
+2022-11-09 7633.34
+2022-11-10 8261.32
+2022-11-11 8401.74
+2022-11-12 8331.02
+2022-11-13 8331.02
+2022-11-14 8331.02
+Called printMessage()
+Message - 
+Called printMenu()
+Create Portfolio
+Edit Portfolio
+Load Portfolio from file
+Examine Portfolio Composition
+Total Value of Portfolio
+Cost Basis of Portfolio
+Portfolio Performance
+Go back

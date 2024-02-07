@@ -1,0 +1,19 @@
+Called printMessage()
+Message - ----------Welcome to Portfolio Management----------
+
+Called printMessage()
+Message - -> Press q to exit from the program.
+Called printMessage()
+Message - 
+Select one of the options
+Called printMenu()
+Create User
+Existing User
+Called printError()
+Message - Invalid input provided. Please give the right input.
+Called printMessage()
+Message - 
+Select one of the options
+Called printMenu()
+Create User
+Existing User

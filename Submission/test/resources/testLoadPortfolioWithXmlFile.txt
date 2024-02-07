@@ -1,0 +1,28 @@
+Called printMessage()
+Message - 
+Select one of the options
+Called printMenu()
+Create User
+Existing User
+Called printMessage()
+Message - Enter the username (underscore seperated) - 
+Called printMessage()
+Message - 
+Called printMenu()
+Create Portfolio
+Load Portfolio from file
+Examine Portfolio Composition
+Total Value of Portfolio
+Go back
+Called printMessage()
+Message - Enter the file name - 
+Called printSuccess()
+Message - Portfolio "testportfolio" created!
+Called printMessage()
+Message - 
+Called printMenu()
+Create Portfolio
+Load Portfolio from file
+Examine Portfolio Composition
+Total Value of Portfolio
+Go back

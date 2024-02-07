@@ -1,0 +1,80 @@
+Called printMessage()
+Message - ----------Welcome to Portfolio Management----------
+
+Called printMessage()
+Message - -> Press q to exit from the program.
+Called printMessage()
+Message - 
+Select one of the options
+Called printMenu()
+Create User
+Existing User
+Called printMessage()
+Message - Enter the username (underscore separated) - 
+Called printMessage()
+Message - 
+Called printMenu()
+Create Portfolio
+Edit Portfolio
+Load Portfolio from file
+Examine Portfolio Composition
+Total Value of Portfolio
+Cost Basis of Portfolio
+Portfolio Performance
+Go back
+Called printMessage()
+Message - 
+Called printMenu()
+Inflexible Portfolio
+Flexible Portfolio
+Go back
+Called printMessage()
+Message - Enter the portfolio name (underscore separated) - 
+Called printMessage()
+Message - 
+Called printMenu()
+Add Stocks
+Exit Portfolio
+Called printMessage()
+Message - Enter the stock ticker that you want to add - 
+Called printMessage()
+Message - Enter the stock quantity - 
+Called printMessage()
+Message - 
+Called printMenu()
+Add Stocks
+Exit Portfolio
+Called printSuccess()
+Message - Portfolio "testportfolio" saved!
+Called printMessage()
+Message - 
+Called printMenu()
+Create Portfolio
+Edit Portfolio
+Load Portfolio from file
+Examine Portfolio Composition
+Total Value of Portfolio
+Cost Basis of Portfolio
+Portfolio Performance
+Go back
+Called printMessage()
+Message - 
+Called printMenu()
+Inflexible Portfolio
+Flexible Portfolio
+Go back
+Called printMessage()
+Message - Enter the portfolio name (underscore separated) - 
+Called printMessage()
+Message - You have an existing portfolio by the name "testportfolio"
+Called printMessage()
+Message - 
+Called printMenu()
+Create Portfolio
+Edit Portfolio
+Load Portfolio from file
+Examine Portfolio Composition
+Total Value of Portfolio
+Cost Basis of Portfolio
+Portfolio Performance
+Go back

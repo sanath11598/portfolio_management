@@ -1,0 +1,33 @@
+
+D
+res/SETUP-README.txt,5\9\5905efafb04a8527acbfbec6179ab7b1cc7eac83
+O
+Submission/res/SETUP-README.txt,a\5\a57896f3c859923973650e7e8a8071044452dfe2
+P
+ Submission/res/DESIGN-README.txt,6\8\68cff71d0725fcac9135b9ccd57040eb1d9d2682
+W
+'test/stocks/model/BuyByWeightsTest.java,3\a\3a6426f63239422576e20258bc81fcdf49f60e73
+g
+7test/stocks/model/PortfolioManagementModelImplTest.java,e\8\e880116709be27bb7074e1dd3c2678c7530e0f6e
+B
+src/util/Util.java,7\e\7e1c4f0c5640a451396526d3e8a67c05cee83a99
+S
+#test/util/AlphaVantageDataTest.java,a\1\a1f5e14313f8f518406a40c8bae1b4f62d37995d
+K
+src/util/StockDataUtil.java,2\0\202c283bbea5a5df06ed06c981643a0e453ee4e5
+N
+src/util/AlphaVantageData.java,a\3\a3670261f1a255e2f1cde80d15ae78a1b33a2ea4
+c
+3src/util/stocks/model/PortfolioManagementModel.java,9\c\9c9921477da3d14cf3b971e3550842f94d48973d
+S
+#src/util/stocks/model/BuyBySip.java,5\a\5a1f7753bc3bd7a64446394503caa89a2c20f34b
+]
+-src/util/stocks/model/PortfolioOperation.java,f\1\f106cd573b8d43e3c8f8d96cb2127dff2e26c667
+T
+$src/util/stocks/view/HomeScreen.java,b\6\b66667fb8fe8f15fef4a59d4918266adefbb9f0c
+X
+(src/util/stocks/controller/Features.java,1\a\1a62384f5c0e0fd80a0d782b2276c45b23141c0c
+X
+(src/util/stocks/view/AbstractScreen.java,c\a\ca8f4e0c59123ee98bf1d867887e35ae493c3c0b
+W
+'src/util/stocks/model/BuyByWeights.java,1\c\1c405093a7eb16fddd500b313383b18876016f56
